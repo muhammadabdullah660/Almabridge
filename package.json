@@ -1,0 +1,10 @@
+{
+    "name": "almabridge",
+    "version": "1.0.0",
+    "private": true,
+    "workspaces": [
+      "almabridge_web",
+      "backend/*"
+    ]
+  }
+  
