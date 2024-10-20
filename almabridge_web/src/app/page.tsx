@@ -1,4 +1,4 @@
-import Image from "next/image";
+/*import Image from "next/image";
 
 export default function Home() {
   return (
@@ -98,4 +98,11 @@ export default function Home() {
       </footer>
     </div>
   );
+}*/
+
+// src/app/page.tsx
+import LandingPage from './landingPage/page';
+
+export default function Home() {
+  return <LandingPage />;
 }
