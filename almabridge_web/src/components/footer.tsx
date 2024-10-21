@@ -28,32 +28,32 @@ const Footer = () => {
 
           {/* Middle Section - Links */}
           <div className="text-center md:text-left">
-            <h2 className="text-lg font-semibold mb-6 text-teal-400">
+            <h2 className="text-lg font-semibold mb-6 text-teal-500">
               Features
             </h2>
             <ul className="space-y-3">
               <li>
-                <a href="#" className="hover:text-teal-400 transition-colors">
+                <a href="#" className="hover:text-teal-500 transition-colors">
                   All Jobs
                 </a>
               </li>
               <li>
-                <a href="#" className="hover:text-teal-400 transition-colors">
+                <a href="#" className="hover:text-teal-500 transition-colors">
                   Alumni Highlights
                 </a>
               </li>
               <li>
-                <a href="#" className="hover:text-teal-400 transition-colors">
+                <a href="#" className="hover:text-teal-500 transition-colors">
                   Community Posts
                 </a>
               </li>
               <li>
-                <a href="#" className="hover:text-teal-400 transition-colors">
+                <a href="#" className="hover:text-teal-500 transition-colors">
                   Latest Events
                 </a>
               </li>
               <li>
-                <a href="#" className="hover:text-teal-400 transition-colors">
+                <a href="#" className="hover:text-teal-500 transition-colors">
                   Donate
                 </a>
               </li>
@@ -62,7 +62,7 @@ const Footer = () => {
 
           {/* Right Section - Newsletter */}
           <div className="text-center md:text-left">
-            <h2 className="text-lg font-semibold mb-4 text-teal-400">
+            <h2 className="text-lg font-semibold mb-4 text-teal-500">
               Subscribe to our newsletter
             </h2>
             <p className="mb-4 text-sm">
